@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>digitalinnovation.one</groupId>
 	<artifactId>lab-padroes-projeto-spring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2.7.0.RELEASE</version>
 	<name>lab-padroes-projeto-spring</name>
 	<description>Exemplos de Padrões de Projeto em Spring</description>
 	
@@ -95,11 +95,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 
-			<plugin>
-				<groupId>com.heroku.sdk</groupId>
-				<artifactId>heroku-maven-plugin</artifactId>
-				<version>2.0.8</version>
-			</plugin>
+
 		</plugins>
 	</build>
 
